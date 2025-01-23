@@ -35,4 +35,5 @@ go.sum
 
 # Air specific files
 .air/
+.air.toml
 tmp/
